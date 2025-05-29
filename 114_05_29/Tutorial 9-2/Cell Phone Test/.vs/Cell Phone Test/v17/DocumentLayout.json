@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_05_29\\Tutorial 9-2\\Cell Phone Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41AA77F2-190D-4F43-8A63-35A899D9B237}|Cell Phone Test\\Cell Phone Test.csproj|C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_05_29\\Tutorial 9-2\\Cell Phone Test\\cell phone test\\cellphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41AA77F2-190D-4F43-8A63-35A899D9B237}|Cell Phone Test\\Cell Phone Test.csproj|solutionrelative:cell phone test\\cellphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41AA77F2-190D-4F43-8A63-35A899D9B237}|Cell Phone Test\\Cell Phone Test.csproj|c:\\users\\w401\\desktop\\113_2_c_sharp\\114_05_29\\tutorial 9-2\\cell phone test\\cell phone test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41AA77F2-190D-4F43-8A63-35A899D9B237}|Cell Phone Test\\Cell Phone Test.csproj|solutionrelative:cell phone test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41AA77F2-190D-4F43-8A63-35A899D9B237}|Cell Phone Test\\Cell Phone Test.csproj|C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_05_29\\Tutorial 9-2\\Cell Phone Test\\cell phone test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41AA77F2-190D-4F43-8A63-35A899D9B237}|Cell Phone Test\\Cell Phone Test.csproj|solutionrelative:cell phone test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_05_29\\Tutorial 9-2\\Cell Phone Test\\Cell Phone Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Cell Phone Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_05_29\\Tutorial 9-2\\Cell Phone Test\\Cell Phone Test\\Form1.cs",
+              "RelativeToolTip": "Cell Phone Test\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:53:09.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CellPhone.cs",
+              "DocumentMoniker": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_05_29\\Tutorial 9-2\\Cell Phone Test\\Cell Phone Test\\CellPhone.cs",
+              "RelativeDocumentMoniker": "Cell Phone Test\\CellPhone.cs",
+              "ToolTip": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_05_29\\Tutorial 9-2\\Cell Phone Test\\Cell Phone Test\\CellPhone.cs",
+              "RelativeToolTip": "Cell Phone Test\\CellPhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:52:14.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_05_29\\Tutorial 9-2\\Cell Phone Test\\Cell Phone Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Cell Phone Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Shih Hsin University\\Desktop\\Chapter 09\\Tutorial 9-2\\Cell Phone Test\\Cell Phone Test\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\User\\OneDrive - Shih Hsin University\\Desktop\\Chapter 09\\Tutorial 9-2\\Cell Phone Test\\Cell Phone Test\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:48:23.901Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
